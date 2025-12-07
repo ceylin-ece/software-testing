@@ -10,3 +10,7 @@ PART 2:
 
 PART 3:
 - Please look at "onnx-example-main1/train/training.ipynb"
+
+
+ENVIRONMENT:
+- In our case, we use python version 3.11.xx
